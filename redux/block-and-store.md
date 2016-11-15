@@ -6,7 +6,7 @@
 
 Например:
 
-`auth/__stote/auth__store.js`
+`auth/__store/auth__store.js`
 
 ## Почему именно так
 
